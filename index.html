@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://jquery-csv.googlecode.com/git/src/jquery.csv.js"></script>
+    <script src="http://raw.github.com/mbostock/d3/master/d3.js"></script>
+  </head>
+  <body>
+    <h4>Michelin restaurants in Italy</h4>
+    <script>
+      $(document).ready(function() {
+        
+      //   // $.get('michelin.csv', function(body, resp) {
+      //   //   csv = body;
+      //   //   restaurants = $.csv.toObjects(csv);
+      //   // });
+
+        d3.csv("michelin.csv", function(data) {
+          michelin = data;
+
+          rows = d3.select("table")
+            .selectAll('tr')
+            .data(michelin)
+            .enter()
+            .append('tr');
+
+          rows.append('td')
+            .text(function(d) { return d.name; });
+
+          rows.append('td')
+            .text(function(d) { return d.province; });
+
+          rows.append('td')
+            .text(function(d) { return d.stars; });
+
+          rows.append('td')
+            .text(function(d) { return d.locality; });
+        });
+
+      });
+    </script>
+
+    <div>
+    </div>
+
+    <table>
+    </table>
+  </body>
+</html>
