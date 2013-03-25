@@ -1,25 +1,45 @@
 locality,province,stars,name
+Ceglie Messapica,BR,1,Al Fornello- da Ricci
+Ostuni,BR,1,Cielo ( H la Sommità)
+Marina di Gioiosa Jonica,RC,1,Gambero Rosso
+Strongoli,KR,1,Dattilo
+Vibo Valentia,VV,1,L'Approdo (H Cala del Porto)
+Alghero,SS,1,Andreini
+Portoscuso,CI,1,La Ghinghetta
+Siddi,VS,1,S'Apposentu
+Licata,AG,1,La Madia
+Caltagirone,CL,1,Coria
+Taormina,ME,1,Casa Grugno 
+Taormina,ME,1,Bellevue ( H Metropole)
+Taormina,ME,2,Principe Cerami (H San Domenico Palace)
+Taormina- Lido di Spisone,ME,1,La Capinera
+Palermo/Mondello,PA,1,Bye Bye Blues
+Modica,RG,1,La Gazza Ladra (H Palazzo Failla)
+Ragusa,RG,1,La Fenice (H Villa Carlotta)
+Ragusa- Ibla,RG,2,Duomo
+Ragusa- Ibla,RG,1,Locanda Don Serafino
+San Marino,RSM,1,Righi alla Taverna
 Spinetta Marengo,AL,1,La Fermata
 Oviglio,AL,1,Donatella
 Asti,AT,1,Gener Neuv
 Canelli,AT,1,San Marco
-Isola d‟Asti,AT,1,Il Cascinalenuovo 
+Isola d'Asti,AT,1,Il Cascinalenuovo 
 Tigliole,AT,1,Vittoria 
 Pollone,BI,1,Il Patio 
 Alba,CN,1,Locanda del Pilone 
-Alba,CN,2,mN Piazza Duomo
+Alba,CN,3,Piazza Duomo
 Barolo,CN,1,Locanda nel Borgo Antico
-Benevello,CN,1,Villa d‟Amelia (H Villa d‟Amelia)
+Benevello,CN,1,Villa d'Amelia (H Villa d'Amelia)
 Bra/Pollenzo,CN,1,Guido
-Canale,CN,1,All‟Enoteca
+Canale,CN,1,All'Enoteca
 Cervere,CN,2,Antica Corona Reale- da Renzo
 Cuneo,CN,1,Delle Antiche Contrade
 Grinzane Cavour,CN,1,Al Castello
 Mondovì,CN,1,Il Baluardo
-Priocca d‟Alba,CN,1,Il Centro
-Santa Vittoria d‟Alba,CN,1,Savino Mongelli
+Priocca d'Alba,CN,1,Il Centro
+Santa Vittoria d'Alba,CN,1,Savino Mongelli
 Santo Stefano Belbo,CN,1,Il Ristorante di Guido da Costigliole
-Serralunga d‟alba,CN,1,La Rei (H Boscareto Resort)
+Serralunga d'alba,CN,1,La Rei (H Boscareto Resort)
 Treiso,CN,1,La Ciau del Tornavento
 Invorio,NO,1,Pascia
 Novara,NO,1,Tantris
@@ -37,3 +57,252 @@ Venaria Reale,TO,1,Dolce Stil Novo alla Reggia
 Verbania/Fondotoce,VB,2,Piccolo Lago
 Borgosesia,VC,1,Osteria del Borgo
 Vercelli,VC,1,Cinzia da Christian e Manuel
+Aosta,AO,1,Vecchio Ristoro
+Cogne,AO,1,Le Petit Restaurant (H Bellevue)
+Gignod,AO,1,La Clusaz
+La Salle,AO,1,La Cassolette ( H Mont Blanc )
+Morgex,AO,1,Cafè Quinson
+Genova/Sestri Ponente,GE,1,Baldin
+Nervi,GE,1,The Cook
+Arma di Taggia,IM,1,La Conchiglia
+Cervo,IM,1,San Giorgio
+Imperia / Oneglia,IM,1,Agrodolce
+Sanremo,IM,1,Paolo e Barbara
+Ameglia,SP,1,Locanda delle Tamerici
+Alassio,SV,1,Palma
+Bergeggi,SV,1,Claudio
+Noli,SV,1,Il Vescovado-La Fornace di Barbablù 
+Savona,SV,1,L'Arco Antico
+Almé,BG,1,Frosio 
+Ambivere,BG,1,Antica Osteria dei Camelì
+Bergamo,BG,1,L'Osteria di Via Solata
+Bergamo,BG,1,Roof Garden (H San Marco)
+Brusaporto,BG,3,Da Vittorio
+Chiuduno,BG,1,A' anteprima 
+Grumello del Monte,BG,1,Al Vigneto
+Trescore Balneario,BG,1,LoRo
+Treviglio,BG,1,San Martino
+Villa D'Almé,BG,1,Osteria della Brughiera
+Calvisano,BS,1,Gambero
+Castrezzato,BS,1,Da Nadia
+Concesio,BS,2,Miramonti L'Altro
+Corte Franca/Borgonato,BS,1,Due Colombe
+Desenzano del Garda,BS,1,Esplanade
+Gardone Riviera,BS,1,Villa Fiordaliso
+Gargnano,BS,1,Villa Feltrinelli (G.H. Villa Feltrinelli)
+Gargnano,BS,1,La Tortuga
+Manerba del Garda,BS,1,Capriccio
+Pralboino,BS,1,Leon D'Oro
+Sirmione,BS,1,La Rucola
+Albavilla,CO,1,Il Cantuccio
+Bellagio,CO,1,Mistral (G.H. Villa Serbelloni)
+Campione d'Italia,CO,1,Da Candida
+Como,CO,1,I Tigli…a lago 
+Pellio Intelvi,CO,1,La Locanda del Notaio
+Trescore Cremasco,CR,1,Trattoria del Fulmine
+Lecco,LC,1,Al Porticciolo 84
+Viganò,LC,1,Pierino Penati
+Seregno,MB,1,Pomiroeu
+Cavenago di Brianza,MI,1,Devero Ristorante (H Devero)
+Cornaredo/SanPietro all'Olmo,MI,1,D'O
+Milano,MI,1,Joia
+Milano,MI,1,Innocenti Evasioni
+Milano,MI,1,Tano Passami l'Olio
+Milano,MI,2,Cracco
+Milano,MI,2,Sadler
+Milano,MI,2,Il luogo di Aimo e Nadia 
+Milano,MI,1,Trussardi alla Scala
+Milano,MI,1,Unico
+Milano,MI,1,Alice
+Milano,MI,1,Al Pont de Ferr
+Milano,MI,1,Vun
+Canneto sull'Oglio/Runate MN,3,Dal Pescatore
+Castiglione delle Stiviere,MN,1,Osteria da Pietro
+Mantova,MN,1,Aquila Nigra
+Quistello,MN,1,Ambasciata
+Certosa di Pavia,PV,1,Locanda Vecchia Pavia “Al Mulino”
+Vigevano,PV,1,I Castagni
+Aprica,SO,1,Gimmy's
+Livigno,SO,1,Chalet Mattias
+Madesimo,SO,1,Il Cantinone e Sport Hotel Alpina
+Villa di Chiavenna,SO,1,Lanterna Verde
+Gallarate,VA,1,Ilario Vinciguerra (trasferito)
+Olgiate Olona,VA,1,Ma.Ri.Na
+Ranco,VA,1,Il Sole di Ranco
+Cortina D'Ampezzo,BL,1,Tivoli 
+Pieve D'Alpago,BL,1,Dolada
+Puos D'Alpago,BL,1,Locanda San Lorenzo
+Sappada,BL,1,Laite
+Vodo Cadore,BL,1,Al Capriolo
+Piove di Sacco,PD,1,Meridiana
+Pontelongo,PD,1,Lazzaro 1915
+Rubano,PD,3,Le Calandre
+Selvazzano Dentro,PD,1,La Montecchia
+Oderzo,TV,1,Gellius
+Follina,TV,1,La Corte
+Campagna Lupia /Lughetto,VE,1,mN Antica Osteria Cera
+Venezia,VE,1,Quadri
+Venezia,VE,1,Osteria da Fiore
+Venezia/Burano,VE,1,Venissa
+Altissimo,VI,1,Casin del Gamba
+Lonigo,VI,2,La Peca
+Marano Vicentino,VI,1,El Coq
+Montecchio Precalcino,VI,1,La Locanda di Piero
+Isola Rizza,VR,2,Perbellini
+Costermano,VR,1,La Casa degli Spiriti
+Malcesine,VR,1,Vecchia Malcesine
+Verona,VR,2,Il Desco
+Verona,VR,1,Osteria la Fontanina
+Alta Badia /Corvara,BZ,1,La Stua de Michil (H La Perla)
+Alta Badia/San Cassiano,BZ,2,St. Hubertus (H Rosa Alpina)
+Alta Badia/San Cassiano,BZ,1,La Siriola (H Ciasa Salares) 
+Appiano / San Michele,BZ,1,Zur Rose
+Castelbello Ciardes,BZ,1,Kuppelrain
+Chiusa,BZ,2,Jasmin 
+Falzes/Molini,BZ,1,Schöneck 
+Merano,BZ,1,Sissi
+Merano/Freiberg,BZ,1,Castel Fragsburg (H Castel Fragsburg)
+Mules,BZ,1,Gourmetstube Einhorn
+Ortisei,BZ,1,Anna Stuben (Hotel Gardena)
+Sarentino,BZ,1,Auener Hof
+Selva di Val Gardena,BZ,1,Alpenroyal Gourmet (Alpenroyal G. Hotel)
+Tesimo,BZ,1,Zum Löwen
+Tirolo,BZ,2,Trenkerstube (H Castel)
+Vandoies,BZ,1,La Passion
+Vipiteno,BZ,1,Kleine Flamme
+Cavalese,TN,1,El Molin
+Madonna di Campiglio,TN,1,Il Gallo Cedrone (Hotel Bertelli)
+Madonna di Campiglio,TN,1,Stube Hermitage (Bio Hotel Hermitage)
+Moena,TN,1,Malga Panna
+Ronzone,TN,1,Orso Grigio (H Villa Orso Grigio)
+Trento,TN,1,Scrigno del Duomo
+Trento/Ravina,TN,1,Locanda Margon
+Cormons,GO,1,Al Cacciatore- della Subida
+Dolegna del Collio/Ruttars,GO,1,C Castello di Trussio dell'Aquila d'Oro
+Pasiano di Pordenone /Cecchini,PN,1,Il Cecchini ( H Il Cecchini)
+San Quirino,PN,1,La Primula
+Colloredo di Monte Albano,UD,1,La Taverna 
+Rivignano,UD,1,Al Ferarut
+Ruda,UD,1,Osteria Altran
+Udine/Godia,UD,1,mN Agli Amici
+Bologna,BO,1,I Portici (H i Portici)
+Imola,BO,2,San Domenico
+Sasso Marconi,BO,1,Marconi
+Savigno,BO,1,Trattoria da Amerigo
+Bagno di Romagna,FC,1,Paolo Teverini (H. Tosco Romagnolo)
+Cervia- Milano Marittima,FC,1,La Frasca
+Cesenatico,FC,1,Magnoglia
+Codigoro,FE,1,La Capanna di Eraclio
+Modena,MO,2,Osteria Francescana 
+Modena,MO,1,Hostaria del Mare
+Modena,MO,1,Strada Facendo
+Modena,MO,1,L'Erba del Re
+Besenzone/Bersano,PC,1,La Fiaschetteria
+Borgonovo Val Tidone,PC,1,La Palta
+Carpaneto Piacentino,PC,1,Nido del Picchio
+Piacenza,PC,1,Antica Osteria del Teatro
+Parma,PR,1,Al Tramezzo
+Parma,PR,1,Parizzi
+Polesine Parmense,PR,1,Antica Corte Pallavicina
+Soragna,PR,1,Locanda Stella d'Oro
+QuattroCastella -Rubbianino,RE,1,Cà Matilde
+Reggiolo,RE,2,Il Rigoletto
+Rubiera,RE,1,Arnaldo - Clinica Gastronomica
+Pennabilli,RN,1,Il Piastrino
+Rimini-Miramare,RN,1,Guido
+Torriana,RN,1,Il Povero Diavolo
+Cortona/San Martino,AR,1,Il Falconiere (H Relais Il Falconiere)
+Firenze,FI,3,Enoteca Pinchiorri
+Firenze,FI,1,Il Palagio (H Four Season H Firenze)
+Firenze,FI,1,Ora d'Aria
+San Casciano Val di Pesa- Cerbaia,FI,1,La Tenda Rossa
+Tavarnelle val di Pesa Badia a Passignano,FI,1,Osteria di Passignano
+Castiglione della Pescaia- Badiola,GR,1,Trattoria Toscana – Tenuta la Badiola (H L'Andana ) 
+Massa Marittima - Ghirlanda,GR,1,Bracali
+Montemerano,GR,2,Caino
+Porto Ercole,GR,2,Il Pellicano (H Il Pellicano)
+Saturnia,GR,1,Acquacotta (H Terme di Saturnia)
+Marina di Bibbona,LI,1,La Pineta
+Forte dei Marmi,LU,1,Lorenzo
+Forte dei Marmi,LU,1,Bistrot
+Forte dei Marmi,LU,1,La Magnolia
+Lucca/Marlia,LU,1,Butterfly
+Viareggio,LU,1,Romano
+Tirrenia-Calambrone,PI,1,Lunasia (H Green Park Resort)
+Pescia,PT,1,Atman
+Casole d'Elsa,SI,1,Il Colombaio
+Castellina in Chianti,SI,1,Albergaccio di Castellina
+Castelnuovo Berardenga,SI,1,La Bottega del „30
+Chiusi,SI,1,I Salotti ( H Villa Il Patriarca)
+Colle Di Val d'Elsa,SI,2,Arnolfo
+Perugia,PG,1,Il Postale (H Castello di Monterone)
+Baschi,TR,2,Vissan
+Loreto,AN,1,Andreina
+Montecarotto,AN,1,Le Busche
+Senigallia- Marzocca,AN,2,Madonnina del Pescatore
+Senigallia,AN,2,Uliassi
+Fermo,FM,1,Emilio
+Macerata,MC,1,L'Enoteca (H Le Case)
+Cartoceto,PU,1,Symposium
+Acuto,FR,1,Colline Ciociare
+Ponza (isola di ),LT,1,Acqua Pazza
+Rivodutri,RI,1,mN La Trota
+Fiumicino,RM,1,Pascucci al Porticciolo
+Ladispoli,RM,1,The Cesar ( H La Posta Vecchia)
+Roma,RM,3,La Pergola
+Roma,RM,2,Il Pagliaccio
+Roma,RM,1,Metamorfosi
+Roma,RM,1,Pipero al Rex
+Roma,RM,1,La Terrazza (Hotel Eden)
+Roma,RM,1,Agata e Romeo
+Roma,RM,1,Il Convivio-Troiani
+Roma,RM,1,Giuda Ballerino
+Roma,RM,1,Acquolina Hostaria in Roma
+Roma,RM,1,Glass Hostaria
+Roma,RM,1,Imàgo ( H Hassler)
+Roma,RM,1,All'Oro
+Roma,RM,2,Oliver Glowig (H Aldrovandi V.Borghese)
+Roma,RM,1,Open Colonna
+Acquapendente- Trevinano,VT,1,La Parolina
+Viterbo,VT,1,Enoteca la Torre
+Nusco,AV,1,La Locanda di Bu
+Sorbo Serpico,AV,1,Marennà
+Vallesaccarda,AV,1,Oasis - Sapori Antichi
+Caserta,CE,1,Le Colonne
+Vairano Patenora,CE,1,Vairo del Volturno
+Brusciano,NA,1,Taverna Estia
+Capri (isola di) Anacapri,NA,1,Il Riccio (H Capri Palace)
+Capri (isola di)/Anacapri,NA,2,L'Olivo (H Capri Palace)
+Ischia/Lacco Ameno,NA,1,Indaco (Albergo della Regina Isabella)
+Ischia/ Casamicciola Terme,NA,2,Il Mosaico (H Terme Manzi )
+Massa Lubrense/Nerano,NA,1,Taverna del Capitano
+Massa Lubrense/Nerano,NA,2,Quattro Passi
+Napoli,NA,1,Il Comandante (Hotel Romeo)
+Napoli,NA,1,Palazzo Petrucci
+Quarto,NA,1,Sud
+Sant' Agata sui due Golfi,NA,2,Don Alfonso 1890
+Sorrento,NA,1,Il Buco
+Vico Equense – Marina Equa,NA,2,Torre del Saracino
+Vico Equense,NA,1,L'Accanto ( GD H Angiolieri)
+Vico Equense,NA,1,Maxi (H Capo la Gala)
+Vico Equense,NA,1,Antica Osteria Nonna Rosa
+Amalfi,SA,1,La Caravella
+Caggiano,SA,1,Locanda Severino
+Eboli,SA,1,Il Papavero
+Cava de' Tirreni,SA,1,Pappacarbone
+Maiori,SA,1,Il Faro di Capo d'Orso
+Mercato San Severino,SA,1,Casa del Nonno 13
+Paestum,SA,1,Le Trabe
+Positano,SA,1,San Pietro (H San Pietro)
+Positano,SA,1,La Sponda ( H Le Sirenuse)
+Ravello,SA,2,Rossellinis (H Palazzo Sasso)
+Ravello,SA,1,Il Flauto di Pan (Hotel Villa Cimbrone)
+Castel di Sangro,AQ,2,Reale
+L'Aquila,AQ,1,Magione Papale
+Guardiagrele,CH,1,Villa Maiella
+San Salvo Marina,CH,1,Al Metrò
+Civitella Casanova,PE,1,La Bandiera
+Pescara,PE,1,Cafè les Paillotes
+Alberobello,BA,1,Il Poeta Contadino
+Bari,BA,1,Bacco
+Carovigno,BR,1,Già Sotto l'Arco

@@ -1,14 +1,22 @@
+case sensitive
+[A-Z]{2,3} m?n?N?
+
+
 1 star
 
- (GE|IM|SP|SV|AL|AT|BI|CN|NO|TO|VB|VC) mN?
+ ([A-Z]{2,3}) mN?
  , $1, 1, 
 
 2 star
 
- (GE|IM|SP|SV|AL|AT|BI|CN|NO|TO|VB|VC) nN?
+ ([A-Z]{2,3}) nN?
  , $1, 2, 
 
 3 star
 
- (GE|IM|SP|SV|AL|AT|BI|CN|NO|TO|VB|VC) nmN?
+ ([A-Z]{2,3}) nmN?
  , $1, 3, 
+
+
+ ([A-Z]{2,3}) oN?
+,$1,3,
